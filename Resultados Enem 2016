@@ -1,0 +1,26 @@
+https://scikit-learn.org/stable/modules/model_evaluation.html #Metrics do sk
+
+Mean Absolute Error: 822.6610102604578
+Mean Squared Error: 1082174.3082083662
+Root Mean Squared Error: 1040.2760730730886
+-------------------primeiro resultado 02/07/2020-------------------
+
+Mean Absolute Error: 59.70534504705856
+Mean Squared Error: 5634.157573054238
+Root Mean Squared Error: 75.06102565948748
+-------------------segundo resultado 20/08/2020--------------------
+
+Mean Absolute Error: 48.72653795356652
+Mean Squared Error: 4489.6718747906425
+Root Mean Squared Error: 67.00501380337626
+-------------------Terceiro e ultimo resultado 21/09/2020--------------------
+
+Mean Absolute Error: 0.06499006693466441
+Mean Squared Error: 0.006777523372179444
+Root Mean Squared Error: 0.08232571513311891
+-------------------Quarto 19/11/2020-------------------- esse não conta
+
+Mean Absolute Error: 61.03397380549096
+Mean Squared Error: 5863.903126181804
+Root Mean Squared Error: 76.5761263461518
+-------------------Quinto 23/11/2020--------------------
